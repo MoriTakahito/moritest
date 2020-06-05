@@ -1,0 +1,2 @@
+# moritest
+初めてのgit
